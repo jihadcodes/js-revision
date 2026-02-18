@@ -1,5 +1,21 @@
 
- let  x = 40; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//  let  x = 40; 
 //   let y = 30 ;
 //  function logical() {
 //     if (x > y) {
@@ -24,9 +40,9 @@
 //  logical();
 
 
- let num1 = 20;
- let num2 = 30 ; 
- let  num3 = 50 ;
+//  let num1 = 20;
+//  let num2 = 30 ; 
+//  let  num3 = 50 ;
 //  console.log(num1<num2  && num2 > num3);
 //  console.log(num1<num2  && num2 < num3);
 
@@ -34,9 +50,9 @@
  
 // console.log(!(num1<num2));
 
-for (let x =1; x <=10; x++ ) {
-    console.log('I Love to code ');
+// for (let x =1; x <=10; x++ ) {
+//     console.log('I Love to code ');
     
-}
+// }
 
 
